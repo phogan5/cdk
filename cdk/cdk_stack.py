@@ -1,4 +1,4 @@
-from hashlib import sha3_384
+
 from aws_cdk import (
     # Duration,
     Stack,
